@@ -22,7 +22,7 @@ Mi objetivo es contribuir a proyectos desafiantes y emocionantes donde pueda apl
 
 ### <div align="center"> Nos Contactamos?  
 <div align="center">
-<a href="https://github.com/mauro8776" target="_blank" style="padding:1">
+<a href="https://github.com/mauro8776" target="_blank" border-radius="20%";>
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px" />
 </a>
 <a href="https://twitter.com/mau8778" target="_blank">

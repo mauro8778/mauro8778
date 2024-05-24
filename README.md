@@ -9,11 +9,6 @@
 
 
 <br />
-
-  
-
-
-
 ### ¡Me alegro de verte aquí!  
 
 Soy un desarrollador full stack junior con una sólida orientación hacia el backend. Mi pasión por la industria tecnológica me impulsa a crecer y desarrollarme continuamente en el campo del desarrollo de software. Con experiencia en tecnologías como JavaScript, Node.js, Nest.js, TypeScript y PostgreSQL, busco expandir mis conocimientos y habilidades como desarrollador backend en la industria.

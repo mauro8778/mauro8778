@@ -53,8 +53,7 @@ Mi objetivo es contribuir a proyectos desafiantes y emocionantes donde pueda apl
 Backend  
   
 
-- 
-😍 Lo que me gusta hacer:
+- 😍 Lo que me gusta hacer:
 Me gustan los retos, aprender, los PROBLEMAS LÓGICOS, trabajar en equipo !!
   
 

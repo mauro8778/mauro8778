@@ -1,7 +1,7 @@
 ## <div align="center">Hey 👋, Soy Mauro!</div>  
 <div align="center", >
 <img src="https://media.istockphoto.com/id/119464331/es/foto/%C3%A1rbol-y-ra%C3%ADz.jpg?s=612x612&w=0&k=20&c=pqlW-o-vxaGEcoHMuAa4rE470DshBEFmTbt0tRChLA4=" 
-       align="center" height="" width="" style="border-radius: 150px;" />
+       align="center" height="200" width="200" style="border-radius: 150;" />
 </div>  
   
 

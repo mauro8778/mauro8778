@@ -80,7 +80,7 @@ Es un proyecto de un desarrollado para el bootcamps de Henry, con las siguientes
 💎Node.js
 💎PostgreSql
 💎TypeOrm
-<div Column=2>
+</td><td valign="top" width="50%">
 Frontend
 
 💎React

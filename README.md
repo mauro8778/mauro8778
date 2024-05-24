@@ -25,7 +25,7 @@ Mi objetivo es contribuir a proyectos desafiantes y emocionantes donde pueda apl
 <a href="https://github.com/mauro8778" target="_blank" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
-<a href="https://twitter.com/mau8778" target="_blank" style="margin-right: 10px padding= 1;">
+<a href="https://twitter.com/mau8778" target="_blank" style="margin-right: 10px padding= "1rem";">
   <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
 </a>
 <a href="https://linkedin.com/in/mauro-diaz-a0b8916b" target="_blank">

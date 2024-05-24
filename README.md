@@ -1,7 +1,7 @@
 ## <div align="center">Hey 👋, Soy Mauro!</div>  
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWT8zLrTOkC2BMHIwSvZt9enLMHLnFL053zQ&s" 
-       align="center" height="300" width="600" style="border-radius: 50%; display: block; margin: auto;"  />
+       align="center" height="300" width="300" style="border-radius: 50%"  />
 </div>  
   
 
@@ -9,9 +9,6 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
   
 

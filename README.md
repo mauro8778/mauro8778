@@ -1,7 +1,7 @@
 ## <div align="center">Hola 👋, Soy Mauro!</div>  
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWT8zLrTOkC2BMHIwSvZt9enLMHLnFL053zQ&s" 
-       align="left" height="300" width="300" style="clip-path: circle(50%);"    />
+       align="left" height="300" width="300" clip-path=circle(50%);"    />
 </div>  
   
 

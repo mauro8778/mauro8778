@@ -53,6 +53,50 @@ Me gustan los retos, aprender, los PROBLEMAS LÓGICOS, trabajar en equipo !!
 </td></tr></table>  
 
 <br/>  
+## Proyectos Principales  
+<table><tr><td valign="top" width="50%">
+
+
+   [Ecommerce](https://github.com/mauro8778/E-commerce.git)
+
+Es un proyecto de un desarrollado para el bootcamps de Henry, con las siguientes tecnologias 
+
+💎Typescript
+💎Nest.js
+💎Node.js
+💎PostgreSql
+💎TypeOrm  
+
+
+</td><td valign="top" width="50%">
+
+[TurnoClinica](https://github.com/mauro8778/TurnoClinica.git)
+
+Es un proyecto de un desarrollado para el bootcamps de Henry, con las siguientes tecnologias 
+
+   Backend                             
+💎Typescript
+💎Express
+💎Node.js
+💎PostgreSql
+💎TypeOrm
+
+Frontend
+
+💎React
+💎Redux
+💎Boostrap
+💎JavaScript
+💎HTML5
+💎Css
+  
+
+
+</td></tr></table>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
 ## Languages and Tools  

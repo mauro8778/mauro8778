@@ -69,7 +69,7 @@ Es un proyecto de un desarrollado para el bootcamps de Henry, con las siguientes
 
 
 </td><td valign="top" width="50%">
-
+<div align="center">
 [TurnoClinica](https://github.com/mauro8778/TurnoClinica.git)
 
 Es un proyecto de un desarrollado para el bootcamps de Henry, con las siguientes tecnologias 

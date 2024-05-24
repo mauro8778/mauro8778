@@ -61,7 +61,8 @@ Me gustan los retos, aprender, los PROBLEMAS LÓGICOS, trabajar en equipo !!
 </td></tr></table>  
 
 <br/>  
- Proyectos Principales  
+
+ ## Proyectos Principales
 <table><tr><td valign="top" width="50%">
 
 
@@ -106,7 +107,7 @@ Frontend
 
 
 
-## lenguajes y herramientas 
+## Lenguajes y Herramientas 
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="100" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="100" /></a>  

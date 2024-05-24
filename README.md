@@ -61,7 +61,7 @@ Me gustan los retos, aprender, los PROBLEMAS LÓGICOS, trabajar en equipo !!
 </td></tr></table>  
 
 <br/>  
-## Proyectos Principales  
+ Proyectos Principales  
 <table><tr><td valign="top" width="50%">
 
 

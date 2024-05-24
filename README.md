@@ -1,6 +1,6 @@
 ## <div align="center">Hola 👋, Soy Mauro!</div>  
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWT8zLrTOkC2BMHIwSvZt9enLMHLnFL053zQ&s" 
+  <img src="https://www.canva.com/design/DAGGKnFhd4k/Pzb78PMaxKALScJzIgJ61g/view?utm_content=DAGGKnFhd4k&utm_campaign=designshare&utm_medium=link&utm_source=editor" 
        align="left" height="300" width="300" />
 </div>  
   

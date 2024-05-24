@@ -1,6 +1,6 @@
 ## <div align="center">Hola 👋, Soy Mauro!</div>  
 <div align="center">
-  <img src="https://www.canva.com/design/DAGGKnFhd4k/4ZvLWXa0Ctzpk-ObEahjKQ/view)" 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3-0bH55u28nYeWWSWFD0S3n9rTTj3lbBvnoIbERgpg&s" 
        align="left" height="300" width="300" />
 </div>  
   

@@ -1,6 +1,6 @@
 ## <div align="center">Hey 👋, Soy Mauro!</div>  
 <div align="center", >
-<img src="[wGNtSg1wHoKYD0FbUoNcB6CmA9BW1KDXAegpgPQVtSg1wHoKYD0FbUoNQg9KED5VujWII7ggj9qlofEk6kElWsb2K+nlcbgUEQkBIJCkgbkgXA/U+VZ/Dnvgbbb4nzvb+tj/Q13txmY5Elerv0gb4YXFu3Tcfv+lNNxmaMBUKgAYjpU7XufeB77f0/W4cLaVh3Qj0up9QPT1I/qKw0BG5UgeRIt5X/wCxH9ak28QagsrZC69ukEe8rbg7HdRXPrOJyyqqOQVXdQAB/vuf6/pYOEqB3AoqgmwAJ8gN67tBxOSEtyyBnYNcBuxuO4rrbxLqSQSy3BLDoUbtsTsPSghen5f9K3aK17ra1srjtftf0qbbxVqib5Lf/kXe5v8A78v33rU+KNT/AIl879I37/0tfyt2HmBYIQqPQev7EXB/pWLL8qmpfEupYWZlO6n3V7oQVP7YivPUcf1DoY2YYEFSMRuCLb/7+fegisB6ClbUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoP/Z](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWT8zLrTOkC2BMHIwSvZt9enLMHLnFL053zQ&s)" 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWT8zLrTOkC2BMHIwSvZt9enLMHLnFL053zQ&s" 
        align="center" height="" width="" style="border-radius: 150;" />
 </div>  
   

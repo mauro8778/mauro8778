@@ -65,6 +65,7 @@ Me gustan los retos, aprender, los PROBLEMAS LÓGICOS, trabajar en equipo !!
  ## <div align="center"> Proyectos Principales
 <table><tr><td valign="top" width="50%">
 
+ [5tart-travel](https://5tart-travel-frontend.vercel.app/intro)
 
  5tart-travel es una plataforma desarrollada para el bootcamp de Henry que permite a las agencias de turismo subir y gestionar paquetes de viajes, facilitando a los usuarios la compra de sus paquetes favoritos. Utiliza las siguientes tecnologías:
 

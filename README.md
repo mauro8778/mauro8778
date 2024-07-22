@@ -66,7 +66,28 @@ Me gustan los retos, aprender, los PROBLEMAS LÓGICOS, trabajar en equipo !!
 <table><tr><td valign="top" width="50%">
 
 
-   [Ecommerce](https://github.com/mauro8778/E-commerce.git)
+ 5tart-travel es una plataforma desarrollada para el bootcamp de Henry que permite a las agencias de turismo subir y gestionar paquetes de viajes, facilitando a los usuarios la compra de sus paquetes favoritos. Utiliza las siguientes tecnologías:
+
+Backend
+💎 Typescript
+💎 Nest.js
+💎 Node.js
+💎 PostgreSQL
+💎 TypeORM
+💎 Cloudinary (gestión de imágenes y videos en la nube)
+💎 Passport (middleware de autenticación)
+💎 Socket.io (comunicación en tiempo real)
+💎 Nodemailer (envío de correos electrónicos)
+💎 Cron (tareas programadas)
+Frontend
+💎 Next.js
+💎 Tailwind CSS
+💎 Socket.io (comunicación en tiempo real)
+
+
+</td><td valign="top" width="50%">
+  
+ [Ecommerce](https://github.com/mauro8778/E-commerce.git)
 
 Es un proyecto de un desarrollado para el bootcamps de Henry, con las siguientes tecnologias 
 
@@ -75,31 +96,6 @@ Es un proyecto de un desarrollado para el bootcamps de Henry, con las siguientes
 💎Node.js
 💎PostgreSql
 💎TypeOrm  
-
-
-</td><td valign="top" width="50%">
-  
-[TurnoClinica](https://github.com/mauro8778/TurnoClinica.git)
-
-Es un proyecto de un desarrollado para el bootcamps de Henry, con las siguientes tecnologias 
-
-   Backend                             
-💎Typescript
-💎Express
-💎Node.js
-💎PostgreSql
-💎TypeOrm
-
-Frontend
-
-💎React
-💎Redux
-💎Boostrap
-💎JavaScript
-💎HTML5
-💎Css
-  
-
 
 </td></tr></table>
 <br />

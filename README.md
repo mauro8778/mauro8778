@@ -15,7 +15,7 @@ Soy **Desarrollador Backend** especializado en el ecosistema **Node.js, NestJS y
 
 ### 🚀 Proyectos Destacados
 
-- **[5start-travel]([https://github.com/mauro8778/5start-travel](https://github.com/mauro8778/5tart-travel)):** Backend para plataforma de gestión turística y cotización de viajes en NestJS, PostgreSQL, TypeORM, WebSockets y Docker.
+- **[5start-travel]((https://github.com/mauro8778/5tart-travel)):** Backend para plataforma de gestión turística y cotización de viajes en NestJS, PostgreSQL, TypeORM, WebSockets y Docker.
 - **[E-commerce API](https://github.com/mauro8778/E-commerce):** Arquitectura modular para comercio electrónico con autenticación JWT, control de roles (RBAC) y persistencia en PostgreSQL.
 - **[Pawsome Backend](https://github.com/mauro8778/i004-pawsome-back):** Servicio backend colaborativo con contenedores Docker y flujos de CI/CD.
 

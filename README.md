@@ -73,13 +73,6 @@ Servicio backend desarrollado en equipo simulando un entorno de trabajo ágil co
 
 ---
 
-## 📈 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauro8778&theme=react-dark&hide_border=true" alt="Gráfico de Actividad de GitHub" width="100%" />
-</p>
----
-
 ## 📬 Contacto
 
 - **LinkedIn:** [linkedin.com/in/mauro-diaz-a0b8916b](https://linkedin.com/in/mauro-diaz-a0b8916b)

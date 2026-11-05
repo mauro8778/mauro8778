@@ -75,9 +75,9 @@ Servicio backend desarrollado en equipo simulando un entorno de trabajo ágil co
 
 ## 📈 Estadísticas de GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauro8778&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauro8778&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mauro8778&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauro8778&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---

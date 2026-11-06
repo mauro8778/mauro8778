@@ -57,15 +57,20 @@ Soy **Desarrollador Backend** especializado en el ecosistema **Node.js, NestJS y
 
 ## 🚀 Proyectos Destacados
 
-### ✈️ [5tart-travel (Backend)](https://github.com/mauro8778/5tart-travel)
-Plataforma SaaS para agencias de viajes orientada a la cotización automatizada de paquetes turísticos y gestión de reservas.
-- **Stack:** NestJS, TypeScript, PostgreSQL, TypeORM, Docker, Google OAuth 2.0, Socket.IO, Cloudinary y Nodemailer.
-- **Aspectos clave:** Control de acceso por roles (RBAC), arquitectura modular y notificaciones en tiempo real.
+### 🏥 [TurnoClínica Enterprise API](https://github.com/mauro8778/TurnoClinica-Back)
+Plataforma backend de alto rendimiento para gestión médica hospitalaria, preparada para alta concurrencia con triaje automatizado con Inteligencia Artificial.
+- **Stack:** Node.js, Express, TypeScript, PostgreSQL, Redis, BullMQ, Google Gemini AI, Docker, Swagger.
+- **Aspectos clave:** Bloqueos distribuidos en Redis contra condiciones de carrera (anti-doble reserva de turnos), colas asíncronas con BullMQ para procesamiento en background, y motor de triaje clínico inteligente con Gemini AI bajo el estándar médico ESI.
 
 ### 🛒 [E-Commerce API](https://github.com/mauro8778/E-commerce)
 Backend robusto para plataformas de comercio electrónico preparado para transacciones y control de stock.
 - **Stack:** NestJS, TypeScript, PostgreSQL, JWT, Docker.
 - **Aspectos clave:** Autenticación segura, carrito de compras transaccional y estructura escalable.
+
+### ✈️ [5tart-travel (Backend)](https://github.com/mauro8778/5tart-travel)
+Plataforma SaaS para agencias de viajes orientada a la cotización automatizada de paquetes turísticos y gestión de reservas.
+- **Stack:** NestJS, TypeScript, PostgreSQL, TypeORM, Docker, Google OAuth 2.0, Socket.IO, Cloudinary y Nodemailer.
+- **Aspectos clave:** Control de acceso por roles (RBAC), arquitectura modular y notificaciones en tiempo real.
 
 ### 🐾 [Pawsome Backend](https://github.com/mauro8778/i004-pawsome-back)
 Servicio backend desarrollado en equipo simulando un entorno de trabajo ágil con integración continua.
